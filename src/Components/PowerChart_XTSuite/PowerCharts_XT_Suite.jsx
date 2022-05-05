@@ -9,8 +9,8 @@ import RenderSunBurstCharts from "./SunBursts";
 import RenderWaterfallCharts from "./Waterfall";
 
 import FusionCharts from "fusioncharts";
-import PowerCharts from "fusioncharts/powercharts";
-import TreeMap from "fusioncharts/treemap";
+import PowerCharts from "fusioncharts/fusioncharts.powercharts";
+import TreeMap from "fusioncharts/fusioncharts.treemap";
 import ReactFC from "react-fusioncharts";
 import FusionTheme from "fusioncharts/themes/fusioncharts.theme.fusion";
 
